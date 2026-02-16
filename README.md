@@ -146,4 +146,4 @@ Read [this](https://github.com/BolisettySujith/J.A.R.V.I.S/blob/main/py2exe.md),
 
 In the present JARVIS GUI we cannot see the commands running but they are visible on the terminal, so plan to bring up the commands to display on the GUI.
 
-If you like the repository **```FORK && clone```** 🍴 the repository, start using JARVIS, and don't forget to **⭐** the repository.
+If you like the repository **```FORK && clone```** 🍴 the repository, start using JARVIS, and don't forget to **⭐** the repository
